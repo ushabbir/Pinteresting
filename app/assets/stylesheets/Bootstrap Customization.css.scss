@@ -1,6 +1,10 @@
+@import url(http://fonts.googleapis.com/css?family=Philosopher);
+
 $body-bg:	rgb(236, 240, 241);
 $navbar-default-bg: rgb(236, 240, 241);
+$font-family-sans-serif:  'Philosopher', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $navbar-default-link-color: rgb(243, 156, 18);
 $brand-primary: rgb(243, 156, 18);
 $jumbotron-bg: rgb(22, 160, 133);
+$navbar-height: 50px;
 @import "bootstrap";
